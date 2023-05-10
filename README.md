@@ -14,5 +14,5 @@
 
 # 커뮤니케이션 다이어그램
 
-[https://whimsical.com/4npk6X1WPMDfExPY8Jy1sx]()
+[Link](https://whimsical.com/4npk6X1WPMDfExPY8Jy1sx)
 <img src="./img.png">
